@@ -1,0 +1,6 @@
+c:\users\alexa\onedrive\documents\visual studio 2015\Projects\GenomeTests\GenomeTests\bin\Debug\GenomeTests.exe.config
+c:\users\alexa\onedrive\documents\visual studio 2015\Projects\GenomeTests\GenomeTests\bin\Debug\GenomeTests.exe
+c:\users\alexa\onedrive\documents\visual studio 2015\Projects\GenomeTests\GenomeTests\bin\Debug\GenomeTests.pdb
+c:\users\alexa\onedrive\documents\visual studio 2015\Projects\GenomeTests\GenomeTests\obj\Debug\GenomeTests.csprojResolveAssemblyReference.cache
+c:\users\alexa\onedrive\documents\visual studio 2015\Projects\GenomeTests\GenomeTests\obj\Debug\GenomeTests.exe
+c:\users\alexa\onedrive\documents\visual studio 2015\Projects\GenomeTests\GenomeTests\obj\Debug\GenomeTests.pdb
