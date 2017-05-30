@@ -8,10 +8,10 @@ namespace Genetic
 {
     public class GAStatus
     {
-		//Best fitness atm
+	//Best fitness atm
         public double Fitness = 0;
 		
-		//Fitness when solution was found
+	//Fitness when solution was found
         public double MaxFitness = 0;
 
         //Best program atm
