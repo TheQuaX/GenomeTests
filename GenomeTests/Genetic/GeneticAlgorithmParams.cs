@@ -17,7 +17,7 @@ namespace Genetic
         public double CrossoverRate { get; set; }
         public double MutationRate { get; set; }
         public bool Elitism { get; set; } // Keep previous generation's fittest individual in place of worst in current
-        public string HistoryPath { get; set; } // Path to save log of fitness history at each generation. Can be used to plot on Excel chart etc.
+        public string HistoryPath { get; set; } // Path to save log of fitness history at each generation
 
         public double TotalFitness { get; set; }
         public double TargetFitness { get; set; }
